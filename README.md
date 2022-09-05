@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @robdcal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-robdcal/robdcal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Rob Callaghan. I'm based in Cheshire, UK.
+- 👀 I’m interested in building things that solve problems (and some things just for fun!). Here's some examples:
+  - [NHS Dentist Finder](https://nhs-dentist-finder.netlify.app/)
+  - [URL Descronstructor](https://robdcal.github.io/url-deconstructor/)
+  - [To Do List](https://robdcal.github.io/todo-react/)
+  - [Product Configurator](https://www.bluechiptechnology.com/beta/configurator/)
+  - [Freelance Rate Calculator](https://www.virtual-headquarters.com/freelance-rate-calculator/)
+  - [Random Country Fact Generator](https://robdcal.github.io/random-country-fact-generator/)
+- 🌱 I’m currently learning about data structures and algorithms.

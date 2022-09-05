@@ -2,8 +2,8 @@
 - 👀 I’m interested in building things that solve problems (and some things just for fun!). Here's some examples:
   - [NHS Dentist Finder](https://nhs-dentist-finder.netlify.app/)
   - [URL Descronstructor](https://robdcal.github.io/url-deconstructor/)
-  - [To Do List](https://robdcal.github.io/todo-react/)
+  - To Do List ([React version](https://robdcal.github.io/todo-react/) and [Full Stack PERN version](https://robdcal.github.io/todo-fullstack/))
   - [Product Configurator](https://www.bluechiptechnology.com/beta/configurator/)
   - [Freelance Rate Calculator](https://www.virtual-headquarters.com/freelance-rate-calculator/)
   - [Random Country Fact Generator](https://robdcal.github.io/random-country-fact-generator/)
-- 🌱 I’m currently learning about data structures and algorithms.
+- 🌱 I’m currently learning about data structures and algorithms, as well as building [Film Night](https://github.com/robdcal/film-night-app).
